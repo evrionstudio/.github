@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://evrionstudio.com"><img src="https://evrionstudio.com/assets/og.png" alt="Evrion Studio" width="100%"></a>
+  <a href="https://evrionstudio.com"><img src="banner.png" alt="Evrion Studio" width="100%"></a>
 </p>
 
 ### Bots, panels and websites for gaming communities.
